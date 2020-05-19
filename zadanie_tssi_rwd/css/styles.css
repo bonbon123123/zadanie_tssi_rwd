@@ -1,0 +1,123 @@
+.header{
+    background-color: #0b2436;
+    color: #298ACF;
+    margin: 0 0 0 0;
+    position: fixed;
+    width: 100%;
+    height: 7vh;
+    display: flex;
+  align-items: center
+
+  
+}
+.contact-email{
+
+        word-wrap: break-word;
+}
+h1{
+    font-size: 5vh;
+}
+#socialMedia{
+    background-color: #0b2436;
+    color: #298ACF;
+    height: 100%;
+}
+#contact{
+    background-color: #298ACF;
+    color:  #0b2436;
+    height: 100%;    
+}
+
+  a:hover {
+    background-color: #298ACF;
+    color: #0b2436;
+ 
+  }
+
+  #navBar{
+      overflow-x: scroll;
+      scrollbar-width: auto;
+  }
+  
+  html {
+    overflow: scroll;
+    overflow-x: hidden;
+    }
+
+    ::-webkit-scrollbar {
+        
+            width: 10px;
+        
+        }
+        
+         
+        
+        /* button */
+        
+        ::-webkit-scrollbar-button {
+        
+            background: #222;
+        
+        }
+        
+         
+        
+        /* Handle */
+        
+        ::-webkit-scrollbar-thumb {
+        
+            background: #333;
+        
+        }
+        
+         
+        
+        /* Handle on hover */
+        
+        ::-webkit-scrollbar-thumb:hover {
+        
+            background: #666;
+        
+        }
+        
+         
+        
+        /* Track */
+        
+        ::-webkit-scrollbar-track {
+        
+            background: #000;
+        
+        }
+        
+         
+        
+        /* The track NOT covered by the handle.
+        
+        ::-webkit-scrollbar-track-piece {
+        
+            background: #000;
+        
+        }
+        
+         
+        
+        /* Corner */
+        
+        ::-webkit-scrollbar-corner {
+        
+            background: #999;
+        
+        }
+        
+         
+        
+        /* Resizer */
+        
+        ::-webkit-resizer {
+        
+            background: #111;
+        
+        }
+        
+
